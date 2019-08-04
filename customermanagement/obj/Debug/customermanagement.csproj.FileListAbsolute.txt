@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\Employee Management\hospitalmanagement\bin\Debug\hospitalmanagement.exe.config
+C:\Users\admin\Desktop\Employee Management\hospitalmanagement\obj\Debug\hospitalmanagement.exe
+C:\Users\admin\Desktop\Employee Management\hospitalmanagement\obj\Debug\hospitalmanagement.pdb
+C:\Users\admin\Desktop\Employee Management\customermanagement\bin\Debug\hospitalmanagement.exe.config
+C:\Users\admin\Desktop\Employee Management\customermanagement\obj\Debug\hospitalmanagement.exe
+C:\Users\admin\Desktop\Employee Management\customermanagement\obj\Debug\hospitalmanagement.pdb

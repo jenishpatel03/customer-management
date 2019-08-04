@@ -1,0 +1,15 @@
+c:\users\hp\documents\visual studio 2012\Projects\hospitalmanagement\hospitalmanagement\bin\Debug\hospitalmanagement.exe.config
+c:\users\hp\documents\visual studio 2012\Projects\hospitalmanagement\hospitalmanagement\bin\Debug\hospitalmanagement.exe
+c:\users\hp\documents\visual studio 2012\Projects\hospitalmanagement\hospitalmanagement\bin\Debug\hospitalmanagement.pdb
+c:\users\hp\documents\visual studio 2012\Projects\hospitalmanagement\hospitalmanagement\obj\Debug\hospitalmanagement.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2012\Projects\hospitalmanagement\hospitalmanagement\obj\Debug\hospitalmanagement.exe
+c:\users\hp\documents\visual studio 2012\Projects\hospitalmanagement\hospitalmanagement\obj\Debug\hospitalmanagement.pdb
+E:\Rushita\Study\B.E. study\6th sem\DOT_NET\Employee Management\hospitalmanagement\bin\Debug\hospitalmanagement.exe.config
+E:\Rushita\Study\B.E. study\6th sem\DOT_NET\Employee Management\hospitalmanagement\obj\Debug\hospitalmanagement.exe
+E:\Rushita\Study\B.E. study\6th sem\DOT_NET\Employee Management\hospitalmanagement\obj\Debug\hospitalmanagement.pdb
+C:\Users\admin\Desktop\Employee Management\hospitalmanagement\bin\Debug\hospitalmanagement.exe.config
+C:\Users\admin\Desktop\Employee Management\hospitalmanagement\obj\Debug\hospitalmanagement.exe
+C:\Users\admin\Desktop\Employee Management\hospitalmanagement\obj\Debug\hospitalmanagement.pdb
+C:\Users\admin\Desktop\Employee Management\hospitalmanagement\bin\Debug\hospitalmanagement.exe
+C:\Users\admin\Desktop\Employee Management\hospitalmanagement\bin\Debug\hospitalmanagement.pdb
+C:\Users\admin\Desktop\Employee Management\hospitalmanagement\obj\Debug\hospitalmanagement.csprojResolveAssemblyReference.cache
